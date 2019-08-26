@@ -32,28 +32,53 @@
         <rawvoice:frequency>Monthly</rawvoice:frequency>
         <itunes:category text="Technology"/>
         <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
+
         <item>
               <title>Preface</title>
-    <link>
-        https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3
-    </link>
-    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
-    <description>
-        Preface
-    </description>
-    <enclosure url="https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3" length="36715125" type="audio/mpeg"/>
-    <guid>
-        https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3
-    </guid>
-    <itunes:duration>19:07</itunes:duration>
-    <itunes:summary>
-        Prefaceeee
-    </itunes:summary>
-    <itunes:image href="http://www.example.com/image3000x3000.png"/>
-    <itunes:keywords>
-        comma,separated,key,words
-    </itunes:keywords>
-    <itunes:explicit>no</itunes:explicit>
-          </item>
+              <link>
+                https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3
+              </link>
+              <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+              <description>
+                The State and Revolution: The Marxist Theory of The State and the Task of the Proletariat in the Revolution
+              </description>
+              <enclosure url="https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3" length="36715125" type="audio/mpeg"/>
+              <guid>
+                https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3
+              </guid>
+              <itunes:duration>8:45</itunes:duration>
+              <itunes:summary>
+                The State and Revolution: The Marxist Theory of The State and the Task of the Proletariat in the Revolution
+                Preface
+              </itunes:summary>
+              <itunes:image href="http://www.example.com/image3000x3000.png"/>
+              <itunes:keywords>
+                marxism, leninism, socialism, communism
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+              <title>Chapter I: Class Society and the State</title>
+              <link>
+                https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/ch01.mp3
+              </link>
+              <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+              <description>
+                Chapter I: Class Society and the State
+              </description>
+              <enclosure url="https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3" length="36715125" type="audio/mpeg"/>
+              <guid>
+                https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3
+              </guid>
+              <itunes:duration>8:45</itunes:duration>
+              <itunes:summary>
+                Chapter I: Class Society and the State
+              </itunes:summary>
+              <itunes:image href="http://www.example.com/image3000x3000.png"/>
+              <itunes:keywords>
+                marxism, leninism, socialism, communism
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+        </item>
     </channel>
 </rss>
