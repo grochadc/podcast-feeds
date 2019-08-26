@@ -1,4 +1,4 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+H<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
         <title>The State and Revolution Audiobook</title>
         <link>https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/index.htm</link>
@@ -41,7 +41,7 @@
     <description>
         Preface
     </description>
-    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <enclosure url="https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3" length="36715125" type="audio/mpeg"/>
     <guid>
         https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3
     </guid>
