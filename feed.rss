@@ -70,7 +70,7 @@
               <guid>
                 https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/preface.mp3
               </guid>
-              <itunes:duration>8:45</itunes:duration>
+              <itunes:duration>47:39</itunes:duration>
               <itunes:summary>
                 Chapter I: Class Society and the State
               </itunes:summary>
@@ -93,9 +93,32 @@
               <guid>
                 https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/ch02.mp3
               </guid>
-              <itunes:duration>8:45</itunes:duration>
+              <itunes:duration>34:58</itunes:duration>
               <itunes:summary>
                 Chapter II: The Experience of 1848-51
+              </itunes:summary>
+              <itunes:image href="http://www.example.com/image3000x3000.png"/>
+              <itunes:keywords>
+                marxism, leninism, socialism, communism
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+              <title>Chapter III: Experience of the Paris Commune of 1871. Marx's Analysis</title>
+              <link>
+                https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/ch03.mp3
+              </link>
+              <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+              <description>
+                Chapter III: Experience of the Paris Commune of 1871. Marx's Analysis
+              </description>
+              <enclosure url="https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/ch03.mp3" length="36715125" type="audio/mpeg"/>
+              <guid>
+                https://www.marxists.org/audiobooks/archive/lenin/1917/staterev/ch03.mp3
+              </guid>
+              <itunes:duration>53:27</itunes:duration>
+              <itunes:summary>
+                Chapter III: Experience of the Paris Commune of 1871. Marx's Analysis
               </itunes:summary>
               <itunes:image href="http://www.example.com/image3000x3000.png"/>
               <itunes:keywords>
